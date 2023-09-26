@@ -1,6 +1,6 @@
 
 # A deep dive into Time series forecasting for business
-### Presentation: [Metyis_Forecasting](workshop/Metyis_Forecasting.pdf)
+### Presentation: [Forecasts_workshop](workshop/Forecasts_workshop.pdf)
 
 ## Workshop description
 During the course of the workshop, you will acquire the skills necessary to preprocess data for the purpose of time series forecasting, generate relevant features, and implement appropriate analytical models within various business contexts.
