@@ -17,7 +17,7 @@ During the course of the workshop, you will acquire the skills necessary to prep
 * Run the first lines of the notebook and check if it works (installation of pycared takes about 7min)
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://github.com/pyladiesams/time-series-forecasting-sep2023)
 
 ## Credits
 This workshop was set up by @pyladiesams, @vaniki and @magbrach
