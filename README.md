@@ -1,5 +1,5 @@
 
-# A deep dive into Time series forecasting for business
+# Time series forecasting for business
 ### Presentation: [Forecasts_workshop](workshop/Forecasts_workshop.pdf)
 
 ## Workshop description
